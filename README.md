@@ -3,7 +3,7 @@
 animated GIF generator — 3840×2160 — pure Python
 
 ---
-
+![Ghostbyte Surveillance Matrix](ghostbyte_surveillance.gif)
 ## what is this
 
 a script that renders a full 4K animated GIF from scratch, no templates, no after effects, just code.
